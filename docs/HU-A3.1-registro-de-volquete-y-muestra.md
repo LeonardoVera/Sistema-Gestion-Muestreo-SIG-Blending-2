@@ -12,3 +12,5 @@
 - [ ] Se genera una sola muestra por volquete y no se permite duplicar el código de muestra.
 - [ ] Solo se puede asignar el volquete a pilas existentes en el programa de muestreo SIG.
 - [ ] El registro funciona desde el punto de muestreo, sin depender de la oficina (móvil o tablet).
+- [ ] El tonelaje del volquete debe ser mayor que cero y no superar la capacidad máxima configurada; de lo contrario se rechaza el registro con un mensaje claro.
+- [ ] Si no hay conexión, los registros se guardan en el dispositivo y se sincronizan automáticamente al recuperar la señal.
