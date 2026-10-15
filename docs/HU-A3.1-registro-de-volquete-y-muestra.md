@@ -14,3 +14,13 @@
 - [ ] El registro funciona desde el punto de muestreo, sin depender de la oficina (móvil o tablet).
 - [ ] El tonelaje del volquete debe ser mayor que cero y no superar la capacidad máxima configurada; de lo contrario se rechaza el registro con un mensaje claro.
 - [ ] Si no hay conexión, los registros se guardan en el dispositivo y se sincronizan automáticamente al recuperar la señal.
+
+## Trazabilidad
+
+| Nivel | Referencia |
+|-------|------------|
+| Necesidad de negocio | NN-02 — [nivel 1](spec/01-necesidad-de-negocio.md) |
+| Historia de usuario | [nivel 2](spec/02-historias-de-usuario.md) |
+| Criterios de aceptación | CA-A3.1-01 a 07 — [nivel 3](spec/03-criterios-de-aceptacion.md) |
+| Especificación funcional | RF-01 a RF-05 — [nivel 4](spec/04-especificacion-funcional.md) |
+| Especificación técnica preliminar | [nivel 5](spec/05-especificacion-tecnica-preliminar.md) |

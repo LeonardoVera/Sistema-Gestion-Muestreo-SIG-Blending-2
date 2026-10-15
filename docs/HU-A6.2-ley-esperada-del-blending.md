@@ -16,3 +16,13 @@
 ## Supuesto a validar
 
 El "ponderado" usa el tonelaje como peso. Si se usa otro criterio, cambian los criterios de aceptación.
+
+## Trazabilidad
+
+| Nivel | Referencia |
+|-------|------------|
+| Necesidad de negocio | NN-03 — [nivel 1](spec/01-necesidad-de-negocio.md) |
+| Historia de usuario | [nivel 2](spec/02-historias-de-usuario.md) |
+| Criterios de aceptación | CA-A6.2-01 a 04 — [nivel 3](spec/03-criterios-de-aceptacion.md) |
+| Especificación funcional | RF-19 a RF-21, RN-02, RN-03 — [nivel 4](spec/04-especificacion-funcional.md) |
+| Especificación técnica preliminar | [nivel 5](spec/05-especificacion-tecnica-preliminar.md) |

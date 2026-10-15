@@ -16,3 +16,13 @@
 ## Supuesto a validar
 
 El "ponderado" usa el tonelaje de cada volquete como peso. Si se usa otro criterio, cambian los criterios de aceptación.
+
+## Trazabilidad
+
+| Nivel | Referencia |
+|-------|------------|
+| Necesidad de negocio | NN-01 — [nivel 1](spec/01-necesidad-de-negocio.md) |
+| Historia de usuario | [nivel 2](spec/02-historias-de-usuario.md) |
+| Criterios de aceptación | CA-A4.1-01 a 05 — [nivel 3](spec/03-criterios-de-aceptacion.md) |
+| Especificación funcional | RF-09 a RF-11, RN-01 — [nivel 4](spec/04-especificacion-funcional.md) |
+| Especificación técnica preliminar | [nivel 5](spec/05-especificacion-tecnica-preliminar.md) |
